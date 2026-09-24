@@ -21,6 +21,12 @@ I handle the full pipeline myself: concept → design → code → deployment.
 
 | Project | What it does |
 |---|---|
+| **tokenforge** | Byte-pair encoding trained from scratch — deterministic, lossless, pure stdlib → [repo](https://github.com/lukatkem/tokenforge) |
+| **weightsmith** | Model quantization from scratch — per-row/per-channel int8, SNR + argmax-agreement calibration → [repo](https://github.com/lukatkem/weightsmith) |
+| **gradia** | Reverse-mode autograd + trainable MLP in pure Python — gradients verified against finite differences → [repo](https://github.com/lukatkem/gradia) |
+| **ctxpack** | Context-window packer — greedy, value-density, and exact-knapsack packing with named drop reasons → [repo](https://github.com/lukatkem/ctxpack) |
+| **agentcore** | LLM agent loop from first principles — tool registry, wire-format parser, guards, offline-testable → [repo](https://github.com/lukatkem/agentcore) |
+| **ragshield** | Prompt-injection defense for RAG — 6 heuristic families, idempotent sanitizer, output leak filter → [repo](https://github.com/lukatkem/ragshield) |
 | **Hydro-1 — GPT from scratch** | Decoder-only transformer in ~180 lines of PyTorch — 10.7M params, attention heatmaps per layer/head, Academy where frontier AI teachers write + grade a textbook and the student retrains → [source](https://github.com/lukatkem/lukatkem.github.io/tree/main/projects/hydro1) |
 | **Rulebook Copilot (RAG)** | Answers only from your documents — BM25 + vectors fused with RRF, forced [n] citations, token streaming, golden-set evals as a CI gate, 23 tests → [source](https://github.com/lukatkem/lukatkem.github.io/tree/main/projects/margin) |
 | **Refinery** | Dirty text in, training-grade corpus out — MinHash + banded LSH dedup, PII/secret scrubbing, quality gates with reasons, pure stdlib → [source](https://github.com/lukatkem/lukatkem.github.io/tree/main/projects/refinery) |
