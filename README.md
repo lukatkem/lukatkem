@@ -1,5 +1,11 @@
 # Hi, I'm Luka Tkemaladze 👋
 
+![tests](https://img.shields.io/badge/tests-276_passing-2ea44f?style=for-the-badge)
+![builds](https://img.shields.io/badge/AI_systems-14_from_scratch-5aa9ff?style=for-the-badge)
+![license](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+![python](https://img.shields.io/badge/python-3.8%2B-yellow?style=for-the-badge)
+![demo](https://img.shields.io/badge/live_demo-lukatkem.github.io%2Fhydro1--play-ff6f00?style=for-the-badge)
+
 **Full-Stack Developer · AI Specialist · 3D Artist & Designer** — Tbilisi, Georgia 🇬🇪 · open to remote work worldwide
 
 I handle the full pipeline myself: concept → design → code → deployment.
