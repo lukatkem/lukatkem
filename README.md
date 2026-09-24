@@ -8,7 +8,6 @@ I handle the full pipeline myself: concept → design → code → deployment.
 - 🔭 Currently building: AI-powered automation tools and data-extraction pipelines
 - 💻 Stack: **Python · JavaScript · HTML/CSS · C# · SQL**, LLM integration & prompt engineering
 - 🎨 Also: **Blender** photorealistic 3D, Photoshop, Figma, Unity, After Effects
-- 📫 Reach me: **lukatyemaladze13@gmail.com** · [+995 577 30 81 92](tel:+995577308192)
 - 🌐 Portfolio: **[lukatkem.github.io](https://lukatkem.github.io)** — every project with details on the [projects page](https://lukatkem.github.io/projects.html)
 
 ## Featured projects
